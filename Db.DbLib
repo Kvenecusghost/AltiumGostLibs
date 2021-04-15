@@ -28,19 +28,25 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=Footprint Path0=Up
 BrowserOrder_Grouping=
-BrowserOrder_Visible=ID0=148|Description0=153|Library Ref0=168|Library Path0=204|Footprint Ref0=92|Footprint Path0=98|Manufacturer0=93|Manufacturer Part Number0=160|Capacitance0=85|Tolerance0=73|Voltage Rating (DC)0=124|Voltage Rating0=100|Dielectric0=70|Insulation Resistance0=132|Min Operating Temperature0=167|Max Operating Temperature0=168|Case/Package0=100|Packaging0=76|Help URL0=339|Status0=55|Notes0=53
+BrowserOrder_Visible=ID0=148|Description0=153|Library Ref0=168|Library Path0=204|Footprint Ref0=92|Footprint Path0=113|Manufacturer0=93|Manufacturer Part Number0=160|Capacitance0=85|Tolerance0=73|Voltage Rating (DC)0=124|Voltage Rating0=100|Dielectric0=70|Insulation Resistance0=132|Min Operating Temperature0=167|Max Operating Temperature0=168|Case/Package0=100|Packaging0=76|Help URL0=339|Status0=55|Notes0=53|Stock0=51
 [Table2]
 SchemaName=
 TableName=Diodes
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ID0=34|Manufacturer0=93|Manufacturer Part Number0=160|Forward Current0=108|Forward Voltage0=109|Max Forward Surge Current (Ifsm)0=195|Max Repetitive Reverse  Voltage (Vrrm)0=219|Max Reverse Current0=128|Max Reverse Voltage (DC)0=153|Power Dissipation0=116|Recovery Time0=95|Reverse Recovery Time0=137|Reverse Voltage0=105|Min Operating Temperature0=167|Max Operating Temperature0=168|Case/Package0=93|Packaging0=76|Help URL0=70|Status0=55
 [Table3]
 SchemaName=
 TableName=ICs
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=82|Library Ref0=77|Library Path0=83|Footprint Ref0=92|Footprint Path0=98|ID0=34|Manufacturer0=93|Manufacturer Part Number0=160|Type0=47|Nominal Supply Current0=146|Power Consumption0=128|Min Supply Voltage0=124|Max Supply Voltage0=125|Min Operating Temperature0=167|Max Operating Temperature0=168|Case/Package0=93|Packaging0=76|Help URL0=70|Status0=55|Stock0=51
 [Table4]
 SchemaName=
 TableName=Inductives
